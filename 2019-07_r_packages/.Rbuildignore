@@ -1,0 +1,5 @@
+^stlfedR\.Rproj$
+^\.Rproj\.user$
+^main.R$
+^main_original.R$
+.*\.db.*
