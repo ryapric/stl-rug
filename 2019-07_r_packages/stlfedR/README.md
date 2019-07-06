@@ -29,4 +29,6 @@ Slides for Package Development Reference
 
 Please review [this presentation
 deck](https://docs.google.com/presentation/d/1Y6KmN16cZoBc28FBvph4r-BJiJl1APIW9vLxrrq6Nj8/edit?usp=sharing)
-for a concise guide of how an R package is structured.
+for a concise guide of how an R package is structured. A static version of
+this presentation is also located one level up in this repository, at the
+`r_packages` folder top-level.
