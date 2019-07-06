@@ -3,3 +3,5 @@
 ^main.R$
 ^main_original.R$
 .*\.db.*
+.*\.tar\.gz$
+^Makefile$

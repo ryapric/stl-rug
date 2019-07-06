@@ -17,6 +17,8 @@ Imports:
   glue,
   lubridate,
   RSQLite
+Suggests:
+  testthat
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
